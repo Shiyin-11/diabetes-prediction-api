@@ -137,6 +137,12 @@ http://127.0.0.1:8001/docs
 
 to access the interactive Swagger API documentation.
 
+## Model Performance
+
+Random Forest Accuracy: **86%**
+
+The model was evaluated using classification metrics including precision, recall, and F1-score on a held-out test dataset.
+
 ---
 
 ## Future Improvements
