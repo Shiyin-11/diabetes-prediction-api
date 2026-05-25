@@ -132,7 +132,7 @@ uvicorn app.main:app --reload
 After starting the server, open:
 
 ```bash
-http://127.0.0.1:8000/docs
+http://127.0.0.1:8001/docs
 ```
 
 to access the interactive Swagger API documentation.
